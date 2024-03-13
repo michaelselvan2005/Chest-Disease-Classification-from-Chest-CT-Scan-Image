@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/i-n-MLOps/Project/Project-2/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/9c62b53242234baba09ef86ab5068380/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c62b53242234baba09ef86ab5068380
+run_name: resilient-perch-277
+run_uuid: 9c62b53242234baba09ef86ab5068380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710198112652
+status: 1
+tags: []
+user_id: micha

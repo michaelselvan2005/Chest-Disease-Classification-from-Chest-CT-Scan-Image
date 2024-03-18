@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/i-n-MLOps/Project/Project-2/Chest-Disease-Classification-from-Chest-CT-Scan-Image/mlruns/0/933bbc41a4e14c36b9ef13889ce7e2c9/artifacts
+end_time: 1710799041700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 933bbc41a4e14c36b9ef13889ce7e2c9
+run_name: gifted-moose-222
+run_uuid: 933bbc41a4e14c36b9ef13889ce7e2c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710799034725
+status: 3
+tags: []
+user_id: micha
